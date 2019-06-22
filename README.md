@@ -30,6 +30,9 @@ $ make
 $ sudo make install
 ```
 
+In command ./configure if you found erorr like 'libdatrie-0.2' not found.
+$ export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig
+
 ### ruby-libthai
 
 ```bash
